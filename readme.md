@@ -32,7 +32,7 @@ Combined with Pi-Hole, this allows ads to be blocked ads even while connecting t
 
 ## Remote Access - Terminal
 
-Unless you are using a linux machine as your primary one, I recommend [**PuTTY**](https://www.putty.org/). Don't expose your raspberry pi to the network by opening another port. Instead,
+Unless you are using a linux machine as your primary one, I recommend [**PuTTY**](https://www.putty.org/). Don't expose your raspberry pi to the network by opening another port. Instead, connect to the VPN and utilize PuTTY from there, so do take note of the ip address of your raspberry pi.
 
 ## Updates
 
