@@ -22,6 +22,10 @@ It is open source and easy to set up, and it blocks ads at the domain level. It 
 
 ## VPN Access
 
+The nice thing about the Raspberry Pi is the amount of support it receives. As such, there are a lot of different Open Source Softwares that have been tailored to it.
+
+As such, [**Pi-VPN**](https://pivpn.dev/)
+
 ## Remote Access - GUI
 
 ## Remote Access - Terminal
