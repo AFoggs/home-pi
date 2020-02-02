@@ -14,7 +14,11 @@ I focused on what was important to me: improving security, upgrading my home net
 
 ## Ad-Blocking
 
-Test.
+One of the most painful parts of browsing the internet while at home is ads. Of course, it's nice that they are personalized, and sometimes they are actually pretty useful, showing us products that we weren't even sure we wanted, but the vast majority of the time, they are annoying.
+
+Thankfully, someone had already come up with a solution: [**Pi-Hole**](https://docs.pi-hole.net/guides/vpn/installation/)
+
+It is open source and easy to set up, and it blocks ads at the domain level. It is only heightened by Pairing it with a VPN.
 
 ## VPN Access
 
