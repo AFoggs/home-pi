@@ -24,10 +24,16 @@ It is open source and easy to set up, and it blocks ads at the domain level. It 
 
 The nice thing about the Raspberry Pi is the amount of support it receives. As such, there are a lot of different Open Source Softwares that have been tailored to it.
 
-As such, [**Pi-VPN**](https://pivpn.dev/)
+As such, [**Pi-VPN**](https://pivpn.dev/) was created. Based on OpenVPN, it makes for a great use to create a home vpn server. It's free, and it allows you to protect yourself while you are in public-- or if you need to access any local files from home.
+
+Combined with Pi-Hole, this allows ads to be blocked ads even while connecting to the VPN through 4G LTE or other methods.
 
 ## Remote Access - GUI
 
 ## Remote Access - Terminal
 
+Unless you are using a linux machine as your primary one, I recommend [**PuTTY**](https://www.putty.org/). Don't expose your raspberry pi to the network by opening another port. Instead,
+
 ## Updates
+
+Currently, this is my raspberry Pi Set Up that improves my overall performance. I may add additional updates if I change my setup.
