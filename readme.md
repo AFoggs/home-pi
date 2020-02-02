@@ -30,6 +30,10 @@ Combined with Pi-Hole, this allows ads to be blocked ads even while connecting t
 
 ## Remote Access - GUI
 
+Though the raspberry pi is now setup, there may be some times where you want to access the machine. I have my Pi completely disconnected from a monitor itself. And though I have no need to utilize it's GUI interface, there are times where I may want to for whatever purpose.
+
+Thankfully, [**Real VNC Viewer**](https://www.raspberrypi.org/documentation/remote-access/vnc/) has a raspberry pi distrubution that is free. It is just like Team Viewer, but specifically for linux systems.
+
 ## Remote Access - Terminal
 
 Unless you are using a linux machine as your primary one, I recommend [**PuTTY**](https://www.putty.org/). Don't expose your raspberry pi to the network by opening another port. Instead, connect to the VPN and utilize PuTTY from there, so do take note of the ip address of your raspberry pi.
